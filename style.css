@@ -1,0 +1,24 @@
+﻿h3 {
+    color: green;
+    font-family: Consolas
+}
+
+input {
+    background-color: gray;
+    color: white;
+    text-align: right;
+}
+
+button{
+    background-color: aqua;
+    color: forestgreen;
+}
+
+#btn0 {
+    background-color: darkred;
+    color: lightgray;
+}
+
+div{
+    text-align: center;
+}
